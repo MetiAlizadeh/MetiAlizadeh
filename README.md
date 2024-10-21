@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Django & React Enthusiast</h3>
 
 <p>
-    <p align="center">
+    <p align="left">
         I'm a 21-year-old Computer Science student with a strong passion for full-stack development, particularly using Django for the backend and React for building dynamic, responsive frontends. My goal is to craft seamless and engaging web applications that deliver exceptional user experiences.
     </p>
         
