@@ -12,10 +12,10 @@
     src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
     alt="Coding GIF"
     width="250"
-    style="margin-left: 20px"
+    style="margin-left: 20px; display: inline;"
   />
 
-  <p>
+  <p style="display: inline;">
     Always learning, always coding, and always looking for new challenges in the
     tech world.
   </p>
