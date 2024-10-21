@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Meti</h1>
 <h3 align="center">Full Stack Developer | Django & React Enthusiast</h3>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="250"/>
+<p>
+    <p align="center">
+        I'm a 21-year-old Computer Science student with a strong passion for full-stack development, particularly using Django for the backend and React for building dynamic, responsive frontends. My goal is to craft seamless and engaging web applications that deliver exceptional user experiences.
+    </p>
+        
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="right" alt="Coding GIF" width="250"/>
 </p>
 
-<p align="center">
-  I'm a 21-year-old Computer Science student with a strong passion for full-stack development, particularly using Django for the backend and React for building dynamic, responsive frontends. My goal is to craft seamless and engaging web applications that deliver exceptional user experiences.
-</p>
 
 <p align="center">
   Always learning, always coding, and always looking for new challenges in the tech world.
