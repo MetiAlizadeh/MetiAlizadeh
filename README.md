@@ -33,13 +33,17 @@
   I’m currently expanding my knowledge in React, Django, Tailwind CSS, TypeScript, and exploring 3D UI design for the front end.
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=metializadeh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metializadeh&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div style="display: flex;">
+    <h3 align="center">📊 GitHub Stats</h3>
+
+    <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=metializadeh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </p>
+      <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=metializadeh&show_icons=true&locale=en" alt="GitHub Stats" />
+      </p>
+</div>
+
 
 <h3 align="center">💬 Get in Touch</h3>
 <p align="center">
