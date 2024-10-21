@@ -14,8 +14,12 @@
   Always learning, always coding, and always looking for new challenges in the tech world.
 </p>
 
-<h3 align="center">🔧 Technologies & Tools</h3>
+<br>
+<br>
+<br>    
+<br>
 
+<h3 align="center">🔧 Technologies & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Django-blue" alt="Django" />
   <img src="https://img.shields.io/badge/Code-React-blue" alt="React" />
