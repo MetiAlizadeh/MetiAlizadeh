@@ -9,7 +9,7 @@
 </div>
 
 
-<p align="center">
+<p>
   Always learning, always coding, and always looking for new challenges in the tech world.
 </p>
 
