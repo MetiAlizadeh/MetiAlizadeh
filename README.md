@@ -1,13 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Meti</h1>
 <h3 align="center">Full Stack Developer | Django & React Enthusiast</h3>
 
-<p align="right">
-  <img
-    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-    alt="Coding GIF"
-    width="250"
-  />
-</p>
+
 
 <p align="center">
   I'm a 21-year-old Computer Science student with a strong passion for
@@ -53,19 +47,6 @@
   I’m currently expanding my knowledge in React, Django, Tailwind CSS,
   TypeScript, and exploring 3D UI design for the front end.
 </p>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div style="display: flex; justify-content: space-around; gap: 20px; margin: 0px 50px 0px 50px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=metializadeh&show_icons=true&locale=en&layout=compact"
-    alt="Top Languages"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=metializadeh&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-</div>
 
 
 <h3 align="center">💬 Get in Touch</h3>
