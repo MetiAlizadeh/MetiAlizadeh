@@ -18,23 +18,21 @@
 <h3 align="center">🔧 Technologies & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Django-blue" alt="Django" />
   <img src="https://img.shields.io/badge/Code-React-blue" alt="React" />
   <img
     src="https://img.shields.io/badge/Code-JavaScript-yellow"
     alt="JavaScript"
   />
   <img
-    src="https://img.shields.io/badge/Code-TailwindCSS-teal"
-    alt="TailwindCSS"
-  />
-  <img
     src="https://img.shields.io/badge/Code-Typescript-blue"
     alt="TypeScript"
   />
+  <img
+    src="https://img.shields.io/badge/Code-TailwindCSS-teal"
+    alt="TailwindCSS"
+  />
   <img src="https://img.shields.io/badge/Code-HTML5-orange" alt="HTML5" />
   <img src="https://img.shields.io/badge/Code-CSS3-blue" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Code-Python-green" alt="Python" />
   <img src="https://img.shields.io/badge/Database-MySQL-orange" alt="MySQL" />
   <img
     src="https://img.shields.io/badge/Database-MongoDB-green"
