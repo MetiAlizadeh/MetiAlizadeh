@@ -1,7 +1,6 @@
 <h1 align="center">Hello! I'm Meti</h1>
 <h3 align="center">Full Stack Developer | React & Java Spring Boot Specialist</h3>
-<p align="center"> I am a dedicated 21-year-old Computer Science student with a strong focus on full-stack web development. My expertise lies in crafting dynamic and responsive frontends using React, alongside building scalable and efficient backend systems with Java Spring Boot. I am passionate about creating seamless digital experiences and high-performance applications that exceed user expectations. </p>
-<p align="center"> Committed to continuous learning and growth, I strive to stay at the forefront of the latest technologies, always seeking new challenges and opportunities in the ever-evolving world of software development. </p>
+<p align="center">"As a 21-year-old Computer Science student specializing in full-stack web development, I focus on building responsive frontends with React and robust backend systems using Java Spring Boot. I'm passionate about crafting user-centric digital experiences and high-performance applications. Driven by continuous learning, I stay at the forefront of new technologies and am always eager for challenges that push the boundaries of modern software development."</p>
 <h3 align="center">🔧 Technical Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-React-blue" alt="React" />
