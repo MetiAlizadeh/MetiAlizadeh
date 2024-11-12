@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Code-SpringBoot-green" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Code-TypeScript-blue" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Nodejs-green" alt="NodeJs" />
+  <img src="https://img.shields.io/badge/Code-Node.js-green" alt="NodeJs" />
   <img src="https://img.shields.io/badge/Code-TailwindCSS-teal" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Code-HTML5-orange" alt="HTML5" />
   <img src="https://img.shields.io/badge/Code-CSS3-blue" alt="CSS3" />
